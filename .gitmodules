@@ -1,0 +1,3 @@
+[submodule "python/matplotlib"]
+	path = python/matplotlib
+	url = https://gist.github.com/zerebom/55407fa35c9db65bd7ae4cc809fd8a91
